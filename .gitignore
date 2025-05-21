@@ -13,3 +13,6 @@ wheels/
 # Data
 images
 qdrant_data
+
+# Notes
+commands.txt
