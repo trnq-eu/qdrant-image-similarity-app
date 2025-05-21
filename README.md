@@ -124,6 +124,7 @@ This application allows you to upload an image and find similar images based on 
 ## Credits
 
 This is my personal take on the code written in this [tutorial](https://blog.veskovujovic.me/posts/image-similarity-with-vector-db/?utm_source=pocket_shared).
+
 [Origina repo](https://github.com/vesko-vujovic/image-similarity-vector-db) 
 
 *   This application uses [FastAPI](https://fastapi.tiangolo.com/) for the backend.
